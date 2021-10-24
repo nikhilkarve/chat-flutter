@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467989311718",
+    "project_id": "chatapp-b20e7",
+    "storage_bucket": "chatapp-b20e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467989311718:android:e66c7ede130fa1b2488b27",
+        "android_client_info": {
+          "package_name": "com.nikhilkarve.chatrank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467989311718-7d06abv58iv7h7b7fnlq1k513nqfbinn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_I8Jfv9lS9OMeiQmLU0JaHXItHZ78zZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467989311718-7d06abv58iv7h7b7fnlq1k513nqfbinn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
